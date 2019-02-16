@@ -90,7 +90,7 @@ Pre-requisites:
     ``sudo yum install python-devel xz-libs zlib libxml2-devel libxslt-devel bzip2-libs``
 
   * On Fedora 22 and later use:
-    ``sudo dnf install python-devel xz-libs zlib libxml2-devel libxslt-devel bzip2-libs``
+    ``sudo dnf install python-devel xz-libs zlib libxml2-devel libxslt-devel bzip2-libs libicu-devel``
 
 * See also the `Comprehensive Installation instructions 
   <https://github.com/nexB/scancode-toolkit/wiki/Comprehensive-Installation>`_
